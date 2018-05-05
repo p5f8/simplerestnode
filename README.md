@@ -11,7 +11,7 @@
    a. npm start
 
 ## to test
-   a. curl localhost:3000/task
-   b. curl localhost:3000/task/1
+   a. curl localhost:3000/task  
+   b. curl localhost:3000/task/1  
 
    
