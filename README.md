@@ -1,7 +1,7 @@
 # simplerestnode
 
 ## pre-requisites
-   a. nodejs v6 or above
+   a. nodejs v6 or above  
    b. npm v4 or abose
 
 ## install
